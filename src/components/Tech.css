@@ -1,0 +1,23 @@
+.tech-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 0 10px;
+    width: 200px; /* adjust as needed */
+  }
+  
+  .tech-icon {
+    width: 1000px; /* adjust as needed */
+    height: 100px; /* adjust as needed */
+    object-fit: contain;
+    margin-bottom: 5px;
+  }
+  
+  .tech-name {
+    font-size: 14px; /* adjust as needed */
+    line-height: 1.2;
+    max-width: 100%;
+    margin-bottom: 20px;
+    font-weight: bold;
+  }  
